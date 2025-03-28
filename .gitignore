@@ -1,0 +1,6 @@
+/movie
+/.venv
+/dist
+/build
+.DS_Store
+main.spec
